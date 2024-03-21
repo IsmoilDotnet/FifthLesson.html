@@ -4,30 +4,30 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: gray;
-  }
-  
-  li {
+}
+
+li {
     float: left;
-  }
-  
-  li a {
+}
+
+li a {
     display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
-  
-  li a:hover {
+}
+
+li a:hover {
     background-color: yellow;
     color: red;
-  }
+}
 
-  .active {
+.active {
     background-color: #04AA6D;
     color: rebeccapurple;
-  }
+}
 
-  li {
+li {
     border-right: 1px solid #bbb;
-  }
+}
